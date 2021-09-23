@@ -1,6 +1,6 @@
 # Retrieving timeseries data for all options on a given underlying using Tick History REST API in Python
 
-This Python script accompanies the article titled ["Retrieving timeseries data for all options on a given underlying using Tick History REST API in Python"](https://developers.refinitiv.com/article/tick-history-5) on Refinitiv Developer Portal.
+This Python script accompanies the article titled ["Retrieving timeseries data for all options on a given underlying using Tick History REST API in Python"](https://developers.refinitiv.com/en/article-catalog/article/options-tick-history-rest-api-python) on Refinitiv Developer Portal.
 
 **Pre-requisites:** 
 
